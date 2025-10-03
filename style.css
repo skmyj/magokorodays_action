@@ -16,11 +16,11 @@ body {
 }
 
 a {
-  color: #533f23;
+  color: #f9f3eb;
 }
 
 p {
-  color: #533f23;
+  color: #f9f3eb;
   line-height: 150%;
   font-size: 15px;
 }
@@ -50,10 +50,9 @@ header li {
 }
 
 .site-header,.site-footer {
-  background-color: #7b4b2c;
+  background-color: #3d2d18;
   color: #f9f3eb;
-  text-align: center;
-  padding: 1rem;
+  padding: 30px;
 }
 
 section {
