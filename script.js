@@ -6,4 +6,12 @@ $(document).ready(function(){
         slideWidth: 600  
     });
   });
+
+  <button onclick="history.back()">戻る</button>
+
+  if (history.length > 1) {
+    history.back();
+  } else {
+    window.location.href = "/";
+  }
  
